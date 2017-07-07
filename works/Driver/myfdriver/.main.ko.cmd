@@ -1,0 +1,1 @@
+cmd_/home/vasily/Desktop/myfdriver/main.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vasily/Desktop/myfdriver/main.ko /home/vasily/Desktop/myfdriver/main.o /home/vasily/Desktop/myfdriver/main.mod.o
